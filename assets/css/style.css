@@ -33,7 +33,7 @@ header {
 }
 
 .logo {
-    background: url("../images/Slack\ profile\ img.png");
+    background: url("../images/linkedInFun.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -66,6 +66,10 @@ header {
 
 .menucontainer {
     font-size: 0;
+}
+
+#nav {
+    margin: 0;
 }
 
 #nav li {
