@@ -162,7 +162,7 @@ header {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: #525252;
+    background-color: #7c9ec3;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
@@ -180,7 +180,7 @@ footer {
 }
 
 .cv-pdf i:hover {
-    color: #97B02B
+    color: #545C67;
 }
 
 .social-links {
@@ -188,15 +188,15 @@ footer {
 }
 
 .social-links li a i {
-    width: 40px;
-    height: 40px;
-    padding: 15px 0;
+    width: 60px;
+    height: 60px;
+    padding: 25px 0;
     border-radius: 50%;
-    font-size: 25px;
+    font-size: 35px;
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background-color: #8f8f8f;
+    background-color: #4b535f;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -204,9 +204,20 @@ footer {
 }
 
 .social-links li a i:hover {
-    background-color: #8ea525;
+    background-color: #353a42;
 }
 
 #footer-details {
     padding: 20px;
+}
+
+/*--------------------------------------------Three reasons*/
+
+.three-reasons-icon {
+    font-size: 28px;
+    color: #97B02B;
+}
+
+.three-reasons-heading {
+
 }
