@@ -233,4 +233,6 @@ footer {
 
 /*--------------------------------------------Personal info*/
 
-
+.personal-info-item {
+    margin-bottom: 20px;
+}
