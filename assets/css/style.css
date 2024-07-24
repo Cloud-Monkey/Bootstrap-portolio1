@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #7e90a4;
+    background-color: #7c9ec3;
 }
 
 .bg-color-three-reasons {
@@ -11,11 +11,11 @@
 }
 
 .ui-menu-color-home {
-    background-color: #97B02B;
+    background-color: #abc243;
 }
 
 .ui-menu-color-resume {
-    background-color: #7c9ec3;
+    background-color: #7d90a3;
 }
 
 .ui-menu-color-contact {
@@ -188,6 +188,7 @@ footer {
 }
 
 .social-links li a i {
+    margin-right: 8px;
     width: 60px;
     height: 60px;
     padding: 25px 0;
@@ -215,7 +216,7 @@ footer {
 
 .three-reasons-icon {
     font-size: 28px;
-    color: #97B02B;
+    color: #abc243;
 }
 
 .three-reasons-heading {
