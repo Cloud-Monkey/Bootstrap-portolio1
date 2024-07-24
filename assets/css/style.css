@@ -10,6 +10,10 @@
     background-color: rgba(237, 243, 244);
 }
 
+.bg-color-personal-info {
+    background-color: #dfebe1;
+}
+
 .ui-menu-color-home {
     background-color: #abc243;
 }
