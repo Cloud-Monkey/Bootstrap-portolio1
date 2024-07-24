@@ -12,6 +12,8 @@
 
 .bg-color-personal-info {
     background-color: #dfebe1;
+    border-top: solid 2px #c3c8bc;
+    border-right: solid 2px #c6d3b5;
 }
 
 .ui-menu-color-home {
