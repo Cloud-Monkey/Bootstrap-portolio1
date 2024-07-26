@@ -321,4 +321,7 @@ footer {
     top: 2.4em;
     position: absolute;
     left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #fafafa;
 }
