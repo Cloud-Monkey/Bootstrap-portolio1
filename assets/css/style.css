@@ -360,7 +360,7 @@ button[type="submit"] {
 
 @media(min-width: 992px) {
     .center-form {
-        padding-top: 10px;
+        padding-top: 30px;
         margin: 0 auto;
         max-width: 70%;
     }
