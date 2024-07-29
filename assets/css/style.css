@@ -346,4 +346,6 @@ footer {
 .center-form {
     padding-top: 10px;
     margin: 0 auto;
+    max-width: 70%;
+    
 }
