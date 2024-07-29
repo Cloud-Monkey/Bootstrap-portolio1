@@ -357,3 +357,7 @@ button[type="submit"] {
 }
 
 /*--------------------------------------------Media Queries*/
+
+@media(min-width: 992px) {
+    
+}
