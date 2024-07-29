@@ -352,4 +352,6 @@ footer {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
+    color: #fafafa;
+    
 }
